@@ -1,0 +1,43 @@
+.d-flex{
+    background-color:#323f4b;
+    color: white;
+    font-size: 60px;
+}
+body{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+}
+.bg1{
+    background-color: #47a3f3;
+    border-radius: 10px 10px 0px 10px;
+    font-size: 40px; 
+}
+.bg2{
+    background-color: #52606d;
+    border-radius: 10px 10px 10px 0px;
+    font-size: 40px;
+}
+.bg3{
+    background-color:#47a3f3 ;
+    border-radius: 10px 10px 10px 0px;
+    font-size: 40px;
+}
+.bg4{
+    background-color: #52606d;
+    border-radius: 10px 10px 10px 0px;
+    font-size: 40px;
+}
+.bg5{
+    background-color: #47a3f3;
+    border-radius: 10px 10px 10px 0px;
+    font-size: 40px;
+}
+.bg6{
+    background-color: #52606d;
+    border-radius: 10px 10px 10px 0px;
+    font-size: 40px;
+}
+.bg7{
+    background-color:#47a3f3;
+    border-radius: 10px 10px 10px 0px;
+    font-size: 40px;
+}
