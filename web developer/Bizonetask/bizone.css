@@ -1,0 +1,143 @@
+@media only screen and (min-width:1200px) 
+{
+.container-fluid{
+    background-image: url(https://i.pinimg.com/736x/db/f1/1d/dbf11d3396f71266f90291635fb8fa11.jpg);
+    height: 600px;
+    width: 1400px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}    
+.head1{
+    margin-top: 15px;
+    color: white;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+}
+nav{
+    margin-top: -50px;
+}
+li{
+    padding: 15px;
+    list-style-type: none;
+    display: block;
+    text-decoration: none;
+}
+a:hover{
+
+    /* background-color: brown; */
+    display: block;
+    /* padding: 5px; */
+    color:white;
+}
+.para1{
+    margin-top: 150px;
+    width: 250px;
+    color: white;
+}
+.head2{
+    margin-top: -20px;
+    width: 400px;
+    color: white;
+}
+.para2{
+    /* margin-top: -100px; */
+    width: 250px;
+    color: white;
+}
+.head3{
+    margin-top: 300px;
+    padding-left: 600px;
+    
+    
+}
+}
+@media only screen and (max-width:1200px)
+{
+    .container-fluid{
+        background-image: url(https://i.pinimg.com/736x/db/f1/1d/dbf11d3396f71266f90291635fb8fa11.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+        height: 800px;
+        width: 1200px;
+    }    
+   .head1 h1{
+       font-size: 100px;
+        color: white;
+    }
+    li a{
+       font-size: 30px;
+        text-decoration: none;
+        color:white;
+    }
+    ul{
+        list-style-type: none;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+      
+    }
+    /* nav{
+        margin-top: -50px;
+    } */
+    li{
+        padding: 2px;
+        /* list-style-type: none;
+        display: block;
+        text-decoration: none; */
+    }
+    a:hover{
+    
+        /* background-color: brown; */
+        display: block;
+        padding: 5px;
+        color:white;
+    }
+    
+    .head3{
+        margin-top: 100px;
+        padding-left: 300px;
+        font-size: 50px;
+        font-weight: 700;
+    }
+    .para1{
+        margin-top: 200px;
+        font-size: 25px;
+        color:white;
+    }
+    .head2{
+        font-size: 70px;
+        color: white;
+    }
+    .para2{
+        font-size: 25px;
+        width: 250px;
+        color: white;
+    }
+    .btn{
+        margin-top: 80px;
+        padding-left: 40px;
+    }
+    .img1{
+        padding-left: 150px;
+    }
+    .par1{
+        padding-left: 20px;
+        margin-top: 20px;
+    }
+    .par1 p{
+        font-weight: bold;
+        width: 300px;
+        text-align: justify;
+    }
+        
+    }

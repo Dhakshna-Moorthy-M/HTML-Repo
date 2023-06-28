@@ -1,0 +1,29 @@
+
+.sa{
+    background-color: #0967d219;
+    border-radius: 20px;
+   }
+.img1{
+    background-color: #3ebd93;
+    height: 200px;
+}
+.img2{
+    background-color:#e668a7;
+    
+  
+}
+.img3{
+    background-color:#a368fc;
+
+}
+.s1{
+    background-color:#e12d3919;
+    border-radius: 20px;
+   
+}
+.boder{
+    border-radius: 30px;
+}
+*{
+    font-family:Roboto;
+}

@@ -1,0 +1,23 @@
+.head1{
+    font-size: 50px;
+    color: brown;
+}
+.dropdown{
+    display: flex;
+    padding-left: 800px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    display: block;
+    color: white;
+    background-color: brown;
+    padding: 10px;
+}
+.home{
+    list-style-type: none;
+    display: none;
+}
+.dropdown li :nth-child(1):hover .home{
+    display: block;
+}

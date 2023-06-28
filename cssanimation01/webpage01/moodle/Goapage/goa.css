@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins:wght@100&family=Roboto:wght@300&display=swap');
+body{
+    font-family: 'Roboto',serif;
+}
+.para h3{
+    color: #323f4b;
+}
+.para p{
+    color: #9aa5b1;
+}
+.video
+{
+    display: inline;
+}

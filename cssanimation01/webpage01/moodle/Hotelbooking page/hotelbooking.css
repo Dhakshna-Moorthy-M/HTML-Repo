@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins:wght@100&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins:wght@100&family=Roboto:wght@300&display=swap');
+
+body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    margin-top: 300px;
+}
+.card-body{
+    background-color: #000000e6;
+    
+}
+.card-text{
+    color: white;
+    font-family: "Roboto";
+}
+.para{
+    color: white;
+}
+
+
+
+  
+

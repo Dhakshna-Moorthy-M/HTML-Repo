@@ -1,0 +1,12 @@
+@import url("https://fonts.google.com/specimen/Bree+Serif?query=bree+se");
+@import url(https://fonts.google.com/specimen/Roboto?query=robo);
+
+.card1{
+    background-color: #f6c56e;
+}
+.btn_background{
+    background-color:white;
+    height: 5rem; 
+    width: 10rem;
+}
+

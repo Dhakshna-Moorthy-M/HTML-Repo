@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+.card-img-overlay{
+    font-family: caveat;
+}
+.row{
+    margin-top: 3px;
+    text-align: center;
+}
+.fullbackground{
+    background-color: #e6f6ff;
+    
+}
+.button{
+     display: flex;
+     justify-content: center;
+}
+/* .row{
+    width: 50%;
+    height: 50%;
+} */
+.container-fluid{
+    display: flex;
+    justify-content: center;
+}

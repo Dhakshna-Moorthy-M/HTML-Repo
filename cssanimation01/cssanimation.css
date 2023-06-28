@@ -1,0 +1,42 @@
+.head1{
+    font-size: 40px;
+    color: brown;
+    text-align: center;
+}
+.title1{
+    text-align: center;
+    font-size: 20px;
+    margin-top: -40px;
+}
+div{
+    font-size: 20px;
+    text-align: center;
+    width: 400px;
+    height: 40px;
+    background-color: brown;
+    color: white;
+    animation: ease1  infinite;
+}
+.graphic1{
+    animation-duration: 5s;
+}
+.graphic2{
+    animation-duration: 6s;
+}
+.graphic3{
+    animation-duration: 7s;
+}
+.graphic4{
+    animation-duration: 8s;
+}
+.graphic5{
+    animation-duration: 9s;
+}
+@keyframes ease1{
+    from{
+        transform:translatex(0px)
+    }
+    to{
+        transform:translatex(1000px)
+    }
+}
